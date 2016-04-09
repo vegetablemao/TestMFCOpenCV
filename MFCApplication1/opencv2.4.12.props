@@ -3,8 +3,8 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
-    <IncludePath>C:\OpenCV2.4.12\Build\install\include;C:\OpenCV2.4.12\Build\install\include\opencv2;C:\OpenCV2.4.12\Build\install\include\opencv;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\OpenCV2.4.12\Build\install\x86\vc11\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\OpenCV2\opencv\build\include;D:\OpenCV2\opencv\build\include\opencv;D:\OpenCV2\opencv\build\include\opencv2;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\OpenCV2\opencv\build\x86\vc11\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup>
     <Link>

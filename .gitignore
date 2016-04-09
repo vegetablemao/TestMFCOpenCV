@@ -2,3 +2,7 @@
 /ipch/
 /MFCApplication1/Debug/
 *.opensdf
+*.props
+*.opensdf
+*.sdf
+*.suo
